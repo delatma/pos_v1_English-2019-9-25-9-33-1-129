@@ -50,6 +50,13 @@ function loadPromotions() {
         'ITEM000001',
         'ITEM000005'
       ]
-    }
+    },
+    {
+     type: 'OTHER_PROMOTION',
+     barcodes: [
+       'ITEM000003',
+       'ITEM000004'
+     ]
+   }
   ];
 }
